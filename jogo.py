@@ -42,6 +42,14 @@ dificuldade,
 "Fcail"
 "Medio"
 )
+menu_dificulade.pack
+texto_palpite =tk.label(
+janela,
+text="Digite seu palpite:"
+)
+text_palpite.pack(pady=15)
+
+campo_palpite.pack
 
 
 
